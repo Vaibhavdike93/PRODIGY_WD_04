@@ -1,0 +1,126 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.menu_1{
+	color: #044F7C;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.menu_1:hover{
+	color: orange;
+	border-bottom: 2px solid orange;
+}
+.button_1{
+	margin-left: 90px;
+	background-color: #044F7C;
+	height: 50px;
+	width: 150px;
+	border-radius: 10px;
+	border:none;
+	color: white;
+	box-shadow: 0px 0px 3px #044F7C;
+}
+.button_1:hover{
+	background-color: orange;
+	color: black;
+}
+.profile_img{
+	height: 350px;
+	width: 350px;
+	float: left;
+	border-radius: 50%;
+	outline: 5px solid #044F7C;
+}
+.back_color{
+	background-color: #ECF0F1;
+}
+.name{
+	font-weight: bold;
+	font-family: Georgia;
+	font-size: 50px;
+	color:#044F7C ;
+}
+.text_2{
+	color:#044F7C ;
+}
+.text_3{
+	color: orange;
+}
+.button_2{
+	background-color: #044F7C;
+	height: 50px;
+	width: 150px;
+	border-radius: 10px;
+	border: none;
+	color: white;
+	box-shadow: 0px 0px 3px #044F7C;
+}
+.button_2:hover{
+	background-color: orange;
+	color: black;
+}
+.button_3{
+	background-color: #044F7C;
+	height: 50px;
+	width: 50px;
+	border-radius:100%;
+	border: none;
+	color: white;
+	box-shadow: 0px 0px 3px #044F7C;
+/*	margin-top: 10px;*/
+}
+.button_3:hover{
+	background-color: orange;
+	color: black;
+}
+.text_4{
+	color: orange;
+	font-family:Georgia;
+	font-size: 40px;
+	font-weight: bold;
+	border-bottom: 3px solid orange;
+}
+.text_5{
+	font-family:Helvetica;
+}
+.skill_img{
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.back_co{
+	height: 100%;
+	width: 95%;
+	float: left;
+	background-color: #BDC3C7;
+	box-shadow: 0px 0px 8px gray;
+	text-align: center;
+	border-radius: 10px;
+}
+.text_6{
+	font-family:Georgia;
+}
+.text_7{
+	font-family:Helvetica;
+	text-align:justify;
+}
+.card_ani{
+	transition: all 0.3s;
+}
+.card_ani:hover{
+	transform: scale(1.05);
+}
+.card_ani_1{
+/*	background-color: #BDC3C7;*/
+	transition: all 0.3s;
+}
+.card_ani_1:hover{
+	transform: scale(1.10);
+}
+.card_color{
+	background-color:#BDC3C7 ;
+}
